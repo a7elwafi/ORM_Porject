@@ -15,7 +15,11 @@ mécanismes de transformation d'héritage et d'assocation de l'objet au relation
            
 
 On dévelopera donc des applications pour :
+
     - créer (graph.py)
+    
     - stocker (graph_save.py)
+    
     - rechercher (graph_load.py)
+    
     - visualiser le graphe (graph_display.py)
